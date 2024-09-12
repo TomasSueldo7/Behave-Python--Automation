@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","12918"," -- @1.1 ","","Thu Sep 12 15:03:36 ART 2024","passed","Thu Sep 12 15:03:49 ART 2024","","","",""
+"","17407","Successful login with valid credentials","","Thu Sep 12 15:03:18 ART 2024","passed","Thu Sep 12 15:03:36 ART 2024","","","",""
